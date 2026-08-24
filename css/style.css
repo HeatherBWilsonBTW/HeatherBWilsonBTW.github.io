@@ -1,12 +1,12 @@
 :root {
-    --background: #111018;
-    --surface: #1a1824;
-    --surface-light: #242131;
-    --text: #f5f3fa;
-    --muted: #c5bfd0;
-    --accent: #b896ff;
-    --accent-dark: #8a5de8;
-    --border: #3a3449;
+    --background: #0B0F19;
+    --surface: #151B2A;
+    --surface-light: #232C3D;
+    --text: #F8FAFC;
+    --muted: #AAB4C3;
+    --accent: #4EA8DE;
+    --accent-dark: #2F6F9F;
+    --border: #4EA8DE;
     --max-width: 1100px;
 }
 
@@ -169,10 +169,10 @@ h4 {
     color: #15121d;
 }
 
-.button.primary:hover,
-.button.primary:focus {
-    background: #cfb8ff;
-}
+    .button.primary:hover,
+    .button.primary:focus {
+        background: #2F6F9F;
+    }
 
 .button.secondary:hover,
 .button.secondary:focus {
